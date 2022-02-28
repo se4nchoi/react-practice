@@ -16,9 +16,9 @@ export default function Content() {
         <h1>Interests</h1>
         <ul>
           <li>🍳Occasional chef</li>
-          <li>🎒Part-time adventurer</li>
+          <li>🗺️Part-time adventurer</li>
           <li>⚽Avid football lover</li>
-          <li>🎮Professional causal gamer</li>
+          <li>🗡️Professional causal gamer</li>
         </ul>
       </div>
     </section>

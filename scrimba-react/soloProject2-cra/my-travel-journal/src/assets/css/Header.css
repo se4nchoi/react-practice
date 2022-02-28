@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 55px;
+    
+    color: white;
+    background: #F55A5A;
+}
+.header-content {
+    display: flex;
+    align-items: center;
+}
+.header-content .fa-earth-americas {
+    font-size: 24px;
+}
+.header-content span {
+    margin-left: 8px;
+}
