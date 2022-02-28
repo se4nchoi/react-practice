@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-family: 'Karla', sans-serif;
+    color: white;
+
+    height: 65px;
+
+    padding: 0 40px 0 20px;
+
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+.logo-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-name {
+    margin-left: 8px;
+
+    font-size: 21px;
+    font-weight: bold;
+}
+.title-img {
+    width: 32px;
+    height: auto;
+}
+.course {
+    font-weight: 500;
+    font-size: 12px;
+}
