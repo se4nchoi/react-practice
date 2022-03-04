@@ -6,7 +6,11 @@ function Header() {
   return (
     <header className='header'>
         <div className='logo-wrapper'>
-            <img className='title-img' src={trollFace} alt='trollface-logo' />
+            <img 
+              className='title-img' 
+              src={trollFace} 
+              alt='trollface-logo' 
+            />
             <div className='app-name'>Meme Generator</div>
         </div>
         <div className='course'>
