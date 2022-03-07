@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  background: #eee;
+}
+.wrapper {
+  display:flex;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-direction: column; 
+  
+  background: #1a1b21;
+
+  border-radius: 12px;
+  margin-top: 40px;
+
+  max-width: 320px;
+}
